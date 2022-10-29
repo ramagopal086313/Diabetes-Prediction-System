@@ -1,1 +1,1 @@
-# Diabetes-Prediction-System
+# Diabetes-Prediction
